@@ -12,12 +12,12 @@ namespace UnitTestProject1
         {
             //Arrange  
             
-            double expectedResult = 16;
+            double expectedResult = 8;
 
 
             //Act  
 
-            double actualResult = Calculator.Add(8, 8);
+            double actualResult = Calculator.Multiply(2,4);
 
 
             //Assert  
